@@ -1,1 +1,22 @@
-
+Array
+Binary Search
+Bitwise Operators 
+Bubble Sorting
+Conditionals and Loops
+Functions / Methods
+Linear Search
+Linked List
+Maze Problems And Backtracking
+OOP (Object Orianted Programming)
+Pattern Questions
+Recursion
+Recursion with Array Problems 
+Recursion with Pattern Problems 
+Recursion Basic (Easy) questions 
+Recursion Strings
+Sorting Recursion
+Stacks_and_Queues
+Strings And StringBuilder
+Switch
+Tic Tac Toe Game 
+Trees -> BST (BFS/ DFS)
