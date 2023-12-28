@@ -6,7 +6,7 @@ Conditionals and Loops
 Functions / Methods
 Linear Search
 Linked List
-Maze Problems And Backtracking
+Maze Problems And Backtracking -> Suduko game
 OOP (Object Orianted Programming)
 Pattern Questions
 Recursion
@@ -20,3 +20,4 @@ Strings And StringBuilder
 Switch
 Tic Tac Toe Game 
 Trees -> BST (BFS/ DFS)
+Unique to java (File handing concepts)
