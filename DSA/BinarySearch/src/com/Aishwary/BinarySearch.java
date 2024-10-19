@@ -6,7 +6,6 @@ public class BinarySearch {
         int target = 22;
         int ans= binarySearch(arr,target);
         System.out.println(ans);
-
     }
     //return the index
     //return -1 if it does not exist
