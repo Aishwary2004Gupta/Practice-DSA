@@ -1,5 +1,4 @@
 package SegmentTree;
-
 import org.w3c.dom.Node;
 
 class SegmentTree {
