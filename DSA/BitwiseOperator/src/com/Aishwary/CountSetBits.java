@@ -4,7 +4,6 @@ public class CountSetBits {
     public static void main(String[] args) {
         int n = 200;
         System.out.println(Integer.toBinaryString(n));
-
         System.out.println(setBits(n));
     }
 
