@@ -9,7 +9,6 @@ public class Outputs {
 
         /*
                                  // OutputStreamWriter
-
         try(OutputStreamWriter osw = new OutputStreamWriter(System.out)){
             osw.write("Hello everyone ");
             osw.write('W');
