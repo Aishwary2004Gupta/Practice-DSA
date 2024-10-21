@@ -20,18 +20,14 @@ public class ArrayLishExample {
 //        System.out.println(list);
 
         //Input
-
         for (int i = 0; i < 5; i++) {
             list.add(in.nextInt());
 
         }
-
         //get item at any index
         for (int i = 0; i < 5; i++) {
             System.out.println(list.get(i)); //pass index here, list[index] will not work here
         }
-
         System.out.println(list);
-
     }
 }
