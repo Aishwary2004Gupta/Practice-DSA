@@ -4,6 +4,7 @@ Beginner level to Interview level knowledge and learning need in data structures
 This repo involves:
 
 Arrays
+
 BinarySearch
 BitwiseOperator
 BubbleSort
