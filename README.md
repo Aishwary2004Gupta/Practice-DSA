@@ -3,21 +3,21 @@ Beginner level to Interview level knowledge and learning need in data structures
 
 This repo involves:
 
-Array 
-BinatySearch
-BihmiseOperator
-BubbleSorting
+Arrays
+BinarySearch
+BitwiseOperator
+BubbleSort
 Conditionals and Loops
-FunctionsMethods
+Functions and Methods
 LinearSearch
 LinkedList
-MazeProblemsAndBacktracking
-OOP
+MazeProblems and Backtracking
+OOP (Object-Oriented Programming)
 PatternQuestions
 Recursion
 RecursionArrayQuestions
-RecursionPattern
-RecursionQuestion_Easy
+RecursionPatterns
+RecursionQuestions_Easy
 RecursionStrings
 SortingRecursion
 Stacks_and_Queues
@@ -25,4 +25,4 @@ StringsAndStringBuilder
 Switch
 TicTacToe
 Trees
-Unique To Java
+UniqueToJava
