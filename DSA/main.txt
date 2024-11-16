@@ -4,7 +4,7 @@ Bitwise Operators : Operators that work on binary representations of numbers, pe
 Bubble Sorting : A simple sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order.
 Conditionals and Loops : Constructs that control the flow of execution based on conditions or repetition of code blocks.
 Functions / Methods : Reusable blocks of code designed to perform a specific task, enhancing modularity.
-Linear Search
+Linear Search : A simple search algorithm that checks every element in an array sequentially to find a target.
 Linked List
 Maze Problems And Backtracking -> Suduko game
 OOP (Object Orianted Programming)
