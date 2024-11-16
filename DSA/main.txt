@@ -7,7 +7,7 @@ Functions / Methods : Reusable blocks of code designed to perform a specific tas
 Linear Search : A simple search algorithm that checks every element in an array sequentially to find a target.
 Linked List : A dynamic data structure consisting of nodes, where each node contains data and a reference to the next node.
 Maze Problems And Backtracking -> Suduko game : Solving pathfinding or arrangement problems using recursion and decision reversal.
-OOP (Object Orianted Programming)
+OOP (Object Orianted Programming) : A paradigm that uses objects and classes to model real-world entities and their interactions.
 Pattern Questions
 Recursion
 Recursion with Array Problems 
