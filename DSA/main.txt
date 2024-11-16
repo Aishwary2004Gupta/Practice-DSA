@@ -1,7 +1,7 @@
 Array : A data structure to store elements of the same type in a contiguous block of memory
 Binary Search : An efficient algorithm to find an element in a sorted array by repeatedly dividing the search interval in half.
 Bitwise Operators : Operators that work on binary representations of numbers, performing bit-level operations.
-Bubble Sorting
+Bubble Sorting : A simple sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order.
 Conditionals and Loops
 Functions / Methods
 Linear Search
