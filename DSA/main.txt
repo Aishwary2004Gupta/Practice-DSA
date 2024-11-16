@@ -6,7 +6,7 @@ Conditionals and Loops : Constructs that control the flow of execution based on 
 Functions / Methods : Reusable blocks of code designed to perform a specific task, enhancing modularity.
 Linear Search : A simple search algorithm that checks every element in an array sequentially to find a target.
 Linked List : A dynamic data structure consisting of nodes, where each node contains data and a reference to the next node.
-Maze Problems And Backtracking -> Suduko game
+Maze Problems And Backtracking -> Suduko game : Solving pathfinding or arrangement problems using recursion and decision reversal.
 OOP (Object Orianted Programming)
 Pattern Questions
 Recursion
