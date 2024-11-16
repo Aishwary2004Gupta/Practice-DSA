@@ -5,7 +5,7 @@ Bubble Sorting : A simple sorting algorithm that repeatedly swaps adjacent eleme
 Conditionals and Loops : Constructs that control the flow of execution based on conditions or repetition of code blocks.
 Functions / Methods : Reusable blocks of code designed to perform a specific task, enhancing modularity.
 Linear Search : A simple search algorithm that checks every element in an array sequentially to find a target.
-Linked List
+Linked List : A dynamic data structure consisting of nodes, where each node contains data and a reference to the next node.
 Maze Problems And Backtracking -> Suduko game
 OOP (Object Orianted Programming)
 Pattern Questions
