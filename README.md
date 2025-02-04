@@ -47,5 +47,7 @@ TicTacToe
 
 Trees
 
+Graphs
+
 UniqueToJava
 
