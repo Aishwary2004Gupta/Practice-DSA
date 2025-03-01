@@ -1,5 +1,4 @@
 package com.Aishwary.Maze.Backtracking;
-
 public class SudokuSolver {
     public static void main(String[] args) {
         //create sudoku
