@@ -18,7 +18,6 @@ public class Input {
         // [15, 9, 90, 81, 2] //stored internally
 //        System.out.println(arr[2]);
 
-
         //input using for loop
 
 //        for (int i = 0; i < arr.length; i++) {
