@@ -44,7 +44,7 @@ StringsAndStringBuilder
 
 Switch
 
-TicTacToe
+TicTacToe Game
 
 Trees
 
